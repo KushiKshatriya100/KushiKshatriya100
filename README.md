@@ -15,11 +15,11 @@
 - 🖥️ **JavaScript**
 - ⚛️ **React**
 
-### How to Reach Me:
+### Connect with Me:
 
-- 🌿 **My Interests:** Nature and Sustainability
-- ✉️ **Email:** [KhushiKshatriya038@gmail.com](mailto:KhushiKshatriya038@gmail.com)
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/kushi-kshatriya-18a95832a/](https://linkedin.com/in/yourprofile)
+- 🌿 **My Interests:** Nature, Sustainability, and Environmental Conservation
+- ✉️ **Email:** [KhushiKshatriya038@gmail.com](mailto:KhushiKshatriya038@gmail.com)— Drop me a message for collaborations or networking.
+- 🔗 **LinkedIn:** [Kushi Kshatriya](https://www.linkedin.com/in/kushi-kshatriya-18a95832a/)  — Feel free to connect on LinkedIn for professional networking.
 
 
 
