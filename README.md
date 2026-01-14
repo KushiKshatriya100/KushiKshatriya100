@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kushi Kshatriya !
 
-<i>I am currently pursuing an MCA and have a deep passion for coding and exploring new technologies. With experience in programming languages such as Java, Html, C++, CSS, and JavaScript, I continuously strive to expand my skill set. My ultimate goal is to become a full-stack Java developer, mastering both frontend and backend technologies. <br>I believe in breaking down complex problems into manageable chunks. This approach allows me to gain practical experience and improve my problem-solving skills while exploring new tools and frameworks.</i>
+<i>I am currently pursuing an MCA and have a deep passion for coding and exploring new technologies. With experience in programming languages such as Java, Html, C++, CSS, JavaScript, and React I continuously strive to expand my skill set. My ultimate goal is to become a full-stack Java developer, mastering both frontend and backend technologies. <br>I believe in breaking down complex problems into manageable chunks. This approach allows me to gain practical experience and improve my problem-solving skills while exploring new tools and frameworks.</i>
 
 <div align="right"> 
   
