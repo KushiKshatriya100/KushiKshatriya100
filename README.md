@@ -9,10 +9,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=KushiKshatriya100">
-    <img src="https://github-profile-trophy.vercel.app/?username=KushiKshatriya100" alt="KushiKshatriya100" />
+  <a href="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KushiKshatriya100">
+    <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KushiKshatriya100" alt="KushiKshatriya100's Trophies" />
   </a>
 </p>
+
 
 <h1 align="right" > 📊 Stats</h1>
 
@@ -28,7 +29,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KushiKshatriya100&theme=radical&border_radius=10.5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=KushiKshatriya100&theme=radical&border_radius=10.5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 </div>
 
 <!--- Tech Stack Array -->
